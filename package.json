@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "start": "node drill-2.js",
+    "test": "mocha",
+    "dev": "nodemon drill-2.js"
   },
   "author": "",
   "license": "ISC",
